@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Amit Sharma
-- 👀 I’ve experience in Python, ML, Keras, C++, Web development(Django), SQL relational databses(MySql, SQLite), EDA software(simulations, characterization, RC reduction), flow automation 
-- 🌱 I’m currently working on Flask, cloud technologies, NoSQL databses(Cassandra)
+- 👀 I’ve experience in Python, ML, Keras, C++, Web development(Flask, Django), SQL relational databses(Postgres, MySql, SQLite), EDA software(simulations, characterization, RC reduction), flow automation,payments, subscriptions, payments for music streaming royalties
+- 🌱 I’m currently working on a personal project to build a full stack application using Python/Flask, Postgres that will be deployed on AWS
 - 💞
 - 📫 Email me at amitshrm.goog@gmail.com
 
